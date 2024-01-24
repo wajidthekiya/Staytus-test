@@ -1,10 +1,10 @@
 # System Admin / DevOps Engineer Test
 
 ## IMPORTANT:
-- Deadline is usually +3 days (12NN +4GMT) from the moment the test was sent to you (Example: If sent on Monday, deadline is Thursday at 12NN +4GMT).
+- Deadline is usually +3 days (before 12MN +4GMT) from the moment the test was sent to you (Example: If sent on Monday, deadline is Thursday at 12MN +4GMT or Friday 12AM).
 - Ouput that needs to be sent to us:
     - Working URL of the app that can be accessible online.
-    - Upload the project to your own repo and send us the link (optional but highly recommended as this will be discussed during the next phase of the interview).
+    - Upload the project to your own repo and send us the link (optional but highly recommended as this will be reviewed before calling you for the interview and also it will be one of topic of discussion during the next phase of the interview).
 - Describe extra step that you took to make your output outstanding compare to other candidates (Example: setting up SSL, LB, etc...)
 
 ### Test assignment A: Docker and Microservices
